@@ -1,1 +1,1 @@
-# Terminal-conf
+# windows terminal configure
