@@ -1,1 +1,1 @@
-# windows terminal configure
+# powershell configuration
